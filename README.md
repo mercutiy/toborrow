@@ -10,7 +10,7 @@ Snail matrix
 	
 ## Technologies
 Project is created with:
-* Python version: 12.3
+* Python version: 3.9
 	
 ## Setup
 To run this project, install it locally:
